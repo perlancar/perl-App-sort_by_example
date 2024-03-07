@@ -1,0 +1,5 @@
+App-sort_by_example-*
+.build
+*~
+nytprof*
+.DS_Store
